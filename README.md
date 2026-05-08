@@ -11,7 +11,7 @@ A customizable, tui-style discord theme inspired by [spicetify text theme](https
 
 Need help? Want to get notified about updates? Have feedback? Join <https://discord.gg/nz87hXyvcy>
 
-## install
+## Install
 
 ### Vencord/BetterDiscord (or any client that supports theme files)
 
