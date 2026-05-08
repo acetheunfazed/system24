@@ -21,7 +21,7 @@ Need help? Want to get notified about updates? Have feedback? Join <https://disc
 
 ### Install through link
 
-add `https://refact0r.github.io/system24/build/system24.css` to your theme import links. you will need to copy the theme variables to your quickcss in order to customize the theme.
+Add `https://refact0r.github.io/system24/build/system24.css` to your theme import links. You'll need to copy the theme variables to your quickcss in order to customize the theme.
 
 ## Flavors
 
